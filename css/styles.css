@@ -10975,8 +10975,10 @@ section.resume-section .resume-section-content {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color: white;
-    padding: 100px 0;
+    background-attachment: fixed; /* Optional: for parallax effect */
+    min-height: 100vh;
+    width: 100vw; /* Force it full width */
+    overflow: hidden;
 }
 #sideNav {
   background-image: url("../assets/img/backg2.png");
