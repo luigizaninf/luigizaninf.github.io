@@ -10992,3 +10992,14 @@ section.resume-section .resume-section-content {
   height: 100%;
   width: 100%;
 }
+#sideNav .navbar-nav .nav-link {
+  color: black !important;
+}
+#sideNav .navbar-nav .nav-link:hover {
+  color: #333 !important;
+}
+#sideNav .navbar-nav .nav-link.active {
+  color: #000 !important;
+  font-weight: bold;
+}
+
