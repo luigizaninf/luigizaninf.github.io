@@ -10970,3 +10970,11 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.bg-section {
+    background-image: url('../assets/img/Untitled design copy.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 100px 0;
+}
