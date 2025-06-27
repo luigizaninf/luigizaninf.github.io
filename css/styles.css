@@ -11040,4 +11040,9 @@ html, body {
   background-position: center;
   background-repeat: no-repeat;
 }
+@media (min-width: 992px) {
+  .container-fluid {
+    margin-left: 250px; /* match the width of your sidebar */
+  }
+}
 
