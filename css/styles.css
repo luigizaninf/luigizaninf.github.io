@@ -10984,3 +10984,9 @@ section.resume-section .resume-section-content {
   background-position: center;
   background-repeat: no-repeat;
 }
+.overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 100px 30px;
+  height: 100%;
+  width: 100%;
+}
